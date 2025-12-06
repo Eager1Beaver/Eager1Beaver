@@ -46,4 +46,4 @@ Currently pursuing **EMJM NeuroData** at **Instituto Superior Técnico (Lisbon)*
 ## Now / Contact
 - 📍 Lisbon · EMJM NeuroData (IST)  
 - 🤝 Open to collabs & internships in healthcare DS/ML and research tooling  
-- ✉️ ilia.golub@tecnico.ulisboa.pt · 🔗 [LinkedIn](https://www.linkedin.com/in/your-handle)
+- ✉️ ilia.golub@tecnico.ulisboa.pt · 🔗 [LinkedIn](https://www.linkedin.com/in/golub-ilia/)
