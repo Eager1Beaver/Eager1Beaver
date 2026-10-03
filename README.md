@@ -19,15 +19,8 @@ Currently pursuing **EMJM NeuroData** at **Instituto Superior Técnico (Lisbon)*
 `NumPy` · `Pandas` · `SciPy` · `Azure` · `Git` · `matplotlib` · `Plotly` · `Power BI`  
 `Machine learning` · `Data pipelines` · `Signal & time-series processing` · `Feature engineering` · `Model evaluation` · `Scientific computing`
 
-<<<<<<< HEAD
 ## Contact
 
 - Based in **Lisbon**
 - Open to collaborations, internships, and joint projects across ML, data science, and software
 - [Email](mailto:ilia.golub@tecnico.ulisboa.pt) · [LinkedIn](https://linkedin.com/in/golub-ilia)
-=======
-## Now / Contact
-- 📍 Lisbon · EMJM NeuroData (IST)  
-- 🤝 Open to collabs & internships in healthcare DS/ML and research tooling  
-- ✉️ ilia.golub@tecnico.ulisboa.pt · 🔗 [LinkedIn](https://www.linkedin.com/in/golub-ilia/)
->>>>>>> refs/remotes/origin/main
